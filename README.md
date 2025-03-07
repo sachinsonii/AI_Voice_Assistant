@@ -53,9 +53,3 @@ Ensure you have the following installed:
 ## License
 This project is licensed under the MIT License.
 
-## Contributing
-Feel free to submit pull requests and suggest improvements!
-
-## Author
-Developed by **Your Name**. Contact at [your-email@example.com].
-
