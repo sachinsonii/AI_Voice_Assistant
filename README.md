@@ -23,13 +23,13 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ai-voice-assistant.git
+   git clone https://github.com/sachinsonii/AI_Voice_Assistant.git
    cd AI_Voice_Assistant
    ```
 2. Place your **Google Gemini API Key** inside a text file named `API.txt`.
 3. Run the assistant:
    ```sh
-   python assistant.py
+   python main.py
    ```
 
 ## Usage
